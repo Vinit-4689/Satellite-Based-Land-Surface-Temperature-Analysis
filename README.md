@@ -19,22 +19,22 @@
 LST-Analysis-Project/
 │
 ├── data/
-│   ├── raw/                  # Exported GeoTIFFs from GEE
-│   └── processed/            # Cleaned/derived rasters
+│   ├── raw/                  
+│   └── processed/            
 │
 ├── notebooks/
-│   └── lst_analysis.ipynb    # Main Colab notebook (end-to-end)
+│   └── lst_analysis.ipynb    
 │
 ├── gee_scripts/
-│   ├── landsat_lst.py        # Landsat LST pipeline (NDVI → Emissivity → LST)
-│   └── modis_lst.py          # MODIS LST processing (scale → °C)
+│   ├── landsat_lst.py        
+│   └── modis_lst.py          
 │
 ├── results/
-│   ├── maps/                 # LST maps (GeoTIFF/PNG)
-│   ├── plots/                # Scatter, regression, time series
-│   └── comparison/           # MODIS vs Landsat outputs
+│   ├── maps/                 
+│   ├── plots/                
+│   └── comparison/           
 │
-├── images/                   # README visuals (use relative paths)
+├── images/                  
 │   ├── ndvi_lst_scatter.png
 │   ├── ndvi_lst_trend.png
 │   ├── time_series.png
@@ -104,16 +104,16 @@ To obtain physically consistent NDVI–LST behavior:
 ## 📈 Visuals
 
 * NDVI vs LST Scatter
-  `![](images/ndvi_lst_scatter.png)`
+  ![ndvi_lst_scatter](images/NDVI vs Land Surface Temperature.png)
 
 * NDVI vs LST (with Trend)
-  `![](images/ndvi_lst_trend.png)`
+  ![](images/ndvi_lst_trend.png)`
 
 * Urban LST Time Series
-  `![](images/time_series.png)`
+  ![](images/time_series.png)`
 
 * LST Map
-  `![](images/lst_map.png)`
+  ![](images/lst_map.png)`
 
 ---
 
