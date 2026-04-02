@@ -107,10 +107,10 @@ To obtain physically consistent NDVI–LST behavior:
   ![ndvi_lst_scatter](images/NDVI vs Land Surface Temperature.png)
 
 * NDVI vs LST (with Trend)
-  ![](images/ndvi_lst_trend.png)`
+  ![](images/NDVI vs LST with Trend Line.png)`
 
 * Urban LST Time Series
-  ![](images/time_series.png)`
+  ![](images/Urban LST Time Series.png)`
 
 * LST Map
   ![](images/lst_map.png)`
