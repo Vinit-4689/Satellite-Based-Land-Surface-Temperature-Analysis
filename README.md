@@ -112,7 +112,7 @@ To obtain physically consistent NDVI–LST behavior:
 
 
 * Urban LST Time Series
-  ![]<img width="640" height="480" alt="Urban LST Time Series" src="https://github.com/user-attachments/assets/ba710e99-8dd1-404c-890f-8be9b141e958" />
+  <img width="640" height="480" alt="Urban LST Time Series" src="https://github.com/user-attachments/assets/ba710e99-8dd1-404c-890f-8be9b141e958" />
 
 
 * LST Map
