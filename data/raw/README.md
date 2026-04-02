@@ -5,3 +5,4 @@ Datasets used:
 - MODIS MOD11A2 LST
 
 No raw data is stored locally due to large size and cloud-based processing.
+
