@@ -1,5 +1,8 @@
 # 🌍 Satellite-Based Land Surface Temperature (LST) Analysis
 
+<img width="1693" height="929" alt="Satellite-based land surface temperature analysis (1)" src="https://github.com/user-attachments/assets/e69a2c19-efe5-4f9e-9841-1ca7f4c7346d" />
+
+
 > End-to-end remote sensing project using Landsat 8 & MODIS to analyze Urban Heat Island (UHI), vegetation–temperature dynamics, and multi-sensor validation.
 
 ---
